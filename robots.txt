@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Luckykantnayak.github.io/Luckykantnayak//sitemap.xml
+Sitemap: https://Luckykantnayak.github.io/sitemap.xml
