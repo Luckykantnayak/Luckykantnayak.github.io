@@ -23,9 +23,10 @@ social: false # includes social icons at the bottom of the page
 
 <p style="margin-bottom:1.3cm; margin-left: 0.5cm"> </p>
 
-Hi, I am a research assistant in **[RISLab](https://rislab.org/)** working with [Dr. Wennie Tabib](https://www.ri.cmu.edu/ri-faculty/wennie-tabib/) at the Robotics Institute, Carnegie Mellon University.
+Hi, I am a Research Assistant at the Robotics Institute, Carnegie Mellon University, where I work in the **[RISLab](https://rislab.org/)** under the guidance of [Dr. Wennie Tabib](https://www.ri.cmu.edu/ri-faculty/wennie-tabib/).
 
-Prior to CMU, I worked with [Dr. Shishir N.Y. Kolathaya](https://www.shishirny.com/) in **[STOCH Lab](https://www.stochlab.com/)** at IISc Bangalore, India. I obtained my B.Tech-M.Tech degrees in Aerospace Engineering from IIT Kanpur, India, where I worked under guidance of [Dr. Indranil Saha](https://cse.iitk.ac.in/users/isaha/) at **[CPS Lab](https://www.cse.iitk.ac.in/users/isaha/research.shtml/)** for my M.Tech thesis.
+Before joining CMU, I was a Research Intern in the **[STOCH Lab](https://www.stochlab.com/)** at IISc Bangalore, where I worked with [Dr. Shishir N.Y. Kolathaya](https://www.shishirny.com/) on legged robotics . I hold dual degrees (B.Tech and M.Tech) in Aerospace Engineering from IIT Kanpur, India. During my M.Tech, I completed my thesis in the  **[CPS Lab](https://www.cse.iitk.ac.in/users/isaha/research.shtml/)** under the supervision of [Dr. Indranil Saha](https://cse.iitk.ac.in/users/isaha/), focusing on multi-UAV system and aerial mapping.
+
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
@@ -50,31 +51,32 @@ Prior to CMU, I worked with [Dr. Shishir N.Y. Kolathaya](https://www.shishirny.c
 
 <div style="border-top: 1px solid #ccc; padding-top: 1em;">
 
-1.<strong> Quadruped Locomotion Control at STOCH Lab, IISc Bangalore </strong>
+1.<strong> Quadruped Locomotion Control | STOCH Lab, IISc Bangalore </strong>
    <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 0.5em;">
        <img src="/assets/img/Quad_Slope.gif" width="120" style="margin: 2px;" />
        <img src="/assets/img/Quad_Ramp.gif" width="120" style="margin: 2px;" />
-       <img src="/assets/img/media2.gif" width="120" style="margin: 2px;" />
        <img src="/assets/img/media3.gif" width="120" style="margin: 2px;" />
        <img src="/assets/img/media4.gif" width="120" style="margin: 2px;" />
-       <img src="/assets/img/RL_Paraller_16.gif" width="150" style="margin: 2px;" />
+       <img src="/assets/img/media2.gif" width="120" style="margin: 2px;" />
+
+       <!-- <img src="/assets/img/RL_Paraller_16.gif" width="150" style="margin: 2px;" /> -->
    </div>
    <p style="font-size: 0.95em; padding: 0.5em; margin-left: 1.5em; margin-top: 1em; line-height: 1.4em;">
-       Developed controller for quadruped robot locomotion in a wide range of environments from walking up hill and down hill to changing  surface texture. Implemented hierarchical RL with MPC, and made robot agnostic control stack with ROS2    </p>
+       Developed a Hierarchical Reinforcement Learning (HRL)–based controller for quadruped robot locomotion across diverse environments, including uphill/downhill terrain and varying surface textures. Contributed to the robot controller stack built on the ROS 2 framework, enabling it to be both robot- and controller-agnostic.  </p>
 
 
-2. <strong>Aerial Mapping with Multi-UAV System at CPS Lab, IIT Kanpur</strong>  
+2. <strong>Aerial Mapping with Multi-UAV System | CPS Lab, IIT Kanpur</strong>  
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 0.5em;">
-       <img src="/assets/img/Experiment_2UAVs.gif" width="280" height="200" style="margin: 2px;" />
-       <img src="/assets/img/Alt18_70_8x8-Border.png" width="280" height="200" style="margin: 2px;" />
-       <img src="/assets/img/Alt18_70_8x8.png" width="280" height="200" style="margin: 2px;" />
+       <!-- <img src="/assets/img/Experiment_2UAVs.gif" width="280" height="200" style="margin: 2px;" /> -->
+       <img src="/assets/img/Alt18_70_8x8-Border.png" width="380" height="300" style="margin: 2px;" />
+       <img src="/assets/img/Alt18_70_8x8.png" width="380" height="300" style="margin: 2px;" />
    </div>
 
    <p style="font-size: 0.95em; padding: 0.5em; margin-left: 1.5em; line-height: 1.4em;">
-       Conducted research on generating map of an area in online mode with multiple UAVs in time optimal manner.
+       Developed a framework for  Multi-UAV coverage path planning over a large area, enabling generation of online map at a ground station. Adapted a mesh optimization based  image stitching method that generates  natural stitched image efficiently with minimal shape distortion.
    </p>
 
-3. <strong>Model-based HER for Space Manipulator Control</strong>  
+<!-- 3. <strong>Model-based HER for Space Manipulator Control</strong>  
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 0.5em;">
        <img src="/assets/img/iros.gif" width="270" height="200" style="margin: 2px;" />
 </div>
@@ -82,4 +84,4 @@ Prior to CMU, I worked with [Dr. Shishir N.Y. Kolathaya](https://www.shishirny.c
    <p style="font-size: 0.95em; padding: 0.5em; margin-left: 1.5em; line-height: 1.4em;">
       Adpated model-based hindsight experience replay to efficiently use experiences using environmental dynamics to control manipulator attached to a free floating sattelite in space.
    </p>
-</div>
+</div> -->
