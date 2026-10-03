@@ -48,10 +48,11 @@ social: false
         <p class="portfolio-card-subtitle">Quadruped Skills via Prompt-to-Trajectory Generation</p>
         <p>MimicAgent uses coding agents to turn a natural-language skill prompt into a coarse reference trajectory. Example-guided reinforcement learning then trains a dynamic quadruped policy that can run in simulation and on a real robot.</p>
         <figure class="portfolio-teaser">
-          <a href="{{ '/assets/img/mimicagent-teaser.png' | relative_url }}" aria-label="View the full MimicAgent teaser figure">
-            <img src="{{ '/assets/img/mimicagent-teaser.png' | relative_url }}" alt="MimicAgent generates quadruped reference trajectories from a task description, then trains an example-guided reinforcement learning policy" width="3360" height="1760" loading="lazy">
-          </a>
-          <figcaption>From a skill prompt to a reference trajectory and a trained robot policy.</figcaption>
+          <video autoplay loop muted playsinline controls preload="metadata" poster="https://luckykantnayak.github.io/mimic-agent/media/teaser_poster.jpg" width="1280" height="720" aria-label="MimicAgent quadrupeds performing generated motions">
+            <source src="https://luckykantnayak.github.io/mimic-agent/media/teaser.mp4" type="video/mp4">
+            <a href="https://luckykantnayak.github.io/mimic-agent/media/teaser.mp4">Watch the MimicAgent motion teaser</a>.
+          </video>
+          <figcaption>Quadrupeds performing MimicAgent skills. <a href="{{ '/assets/img/mimicagent-teaser.png' | relative_url }}">View the method overview figure <span aria-hidden="true">↗</span></a></figcaption>
         </figure>
         <p class="portfolio-card-note">Spotlight at the <a href="https://www.ai-meets-autonomy.com/">IROS 2026 AI Meets Autonomy workshop</a> · Published at the <a href="https://openreview.net/forum?id=1iAEFtFQ9M">ICLR 2026 Workshop on Recursive Self-Improvement</a></p>
         <div class="portfolio-card-links">
