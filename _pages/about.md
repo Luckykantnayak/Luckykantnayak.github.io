@@ -11,7 +11,7 @@ social: false
   <section class="portfolio-hero" aria-label="Introduction">
     <div class="portfolio-hero-copy">
       <p class="portfolio-eyebrow">M.S. Robotics · Carnegie Mellon University</p>
-      <p class="portfolio-lead">I build learning systems for robots that move, perceive, and adapt.</p>
+      <p class="portfolio-lead">I’m interested in scaling robot data and designing efficient frameworks and algorithms for robot learning.</p>
       <p>I’m a Master of Science in Robotics student at CMU’s Robotics Institute, working with <a href="https://www.ri.cmu.edu/ri-faculty/deva-kannan-ramanan/">Prof. Deva Ramanan</a> on robot learning. My recent work, <a href="https://luckykantnayak.github.io/mimic-agent/">MimicAgent</a>, turns natural-language prompts into reference motions for dynamic quadruped skills.</p>
       <p>Previously, I was a research assistant in <a href="https://rislab.org/">RISLab</a> with <a href="https://www.ri.cmu.edu/ri-faculty/wennie-tabib/">Dr. Wennie Tabib</a> and a research intern in the <a href="https://www.stochlab.com/">STOCH Lab</a> at IISc Bangalore with <a href="https://www.shishirny.com/">Dr. Shishir N. Y. Kolathaya</a>. I hold B.Tech and M.Tech degrees in Aerospace Engineering from IIT Kanpur, where I worked on multi-UAV mapping with <a href="https://cse.iitk.ac.in/users/isaha/">Dr. Indranil Saha</a>.</p>
       <div class="portfolio-hero-actions">

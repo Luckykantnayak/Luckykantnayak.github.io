@@ -91,12 +91,12 @@ html[data-theme="dark"] {
 
 .portfolio-lead {
   color: var(--portfolio-ink);
-  font-family: "Roboto Slab", Georgia, serif;
-  font-size: clamp(1.5rem, 2.8vw, 2.35rem);
+  font-family: inherit;
+  font-size: clamp(1.15rem, 1.7vw, 1.4rem);
   font-weight: 400;
-  letter-spacing: -0.035em;
-  line-height: 1.35;
-  margin-bottom: 1.4rem;
+  letter-spacing: -0.01em;
+  line-height: 1.5;
+  margin-bottom: 1.1rem;
 }
 
 .portfolio-hero-actions {
