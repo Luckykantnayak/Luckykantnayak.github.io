@@ -287,9 +287,9 @@ html[data-theme="dark"] .portfolio-page .portfolio-button-primary {
 
 .portfolio-teaser {
   margin: 0.6rem auto 1.3rem;
-  max-width: 640px;
+  max-width: 480px;
 
-  video {
+  img {
     aspect-ratio: 16 / 9;
     background: #131a18;
     border: 1px solid var(--portfolio-border);
