@@ -282,6 +282,29 @@ html[data-theme="dark"] .portfolio-page .portfolio-button-primary {
   }
 }
 
+.portfolio-teaser {
+  margin: 0.35rem 0 1.3rem;
+
+  a {
+    display: block;
+  }
+
+  img {
+    background: #fff;
+    border: 1px solid var(--portfolio-border);
+    border-radius: 14px;
+    display: block;
+    height: auto;
+    width: 100%;
+  }
+
+  figcaption {
+    color: var(--portfolio-muted);
+    font-size: 0.78rem;
+    margin-top: 0.5rem;
+  }
+}
+
 .portfolio-card-top {
   align-items: center;
   display: flex;
