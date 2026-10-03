@@ -23,7 +23,9 @@ social: false # includes social icons at the bottom of the page
 
 <p style="margin-bottom:1.3cm; margin-left: 0.5cm"> </p>
 
-Hi, I am a Research Assistant at the Robotics Institute, Carnegie Mellon University, where I work in the **[RISLab](https://rislab.org/)** under the guidance of [Dr. Wennie Tabib](https://www.ri.cmu.edu/ri-faculty/wennie-tabib/).
+Hi, I am pursuing a **Master of Science in Robotics** at Carnegie Mellon University's Robotics Institute, where I work with [Prof. Deva Ramanan](https://www.ri.cmu.edu/ri-faculty/deva-kannan-ramanan/) on robot learning. Previously, I was a Research Assistant in [RISLab](https://rislab.org/) with [Dr. Wennie Tabib](https://www.ri.cmu.edu/ri-faculty/wennie-tabib/).
+
+My recent work, **[MimicAgent](https://luckykantnayak.github.io/mimic-agent/)**, generates reference motions from natural-language prompts to train dynamic quadruped skills. The [paper (PDF)](https://arxiv.org/pdf/2609.24145) is **submitted to ICRA 2027**. It was selected for a [spotlight at the IROS 2026 AI Meets Autonomy workshop](https://www.ai-meets-autonomy.com/) and appeared at the [ICLR 2026 Workshop on Recursive Self-Improvement](https://openreview.net/forum?id=1iAEFtFQ9M). See my [projects]({{ '/projects/' | relative_url }}) for more work and downloadable reports.
 
 Before joining CMU, I was a Research Intern in the **[STOCH Lab](https://www.stochlab.com/)** at IISc Bangalore, where I worked with [Dr. Shishir N.Y. Kolathaya](https://www.shishirny.com/) on legged robotics . I hold dual degrees (B.Tech and M.Tech) in Aerospace Engineering from IIT Kanpur, India. During my M.Tech, I completed my thesis in the  **[CPS Lab](https://www.cse.iitk.ac.in/users/isaha/research.shtml/)** under the supervision of [Dr. Indranil Saha](https://cse.iitk.ac.in/users/isaha/), focusing on multi-UAV system and aerial mapping.
 
