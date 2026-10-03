@@ -6,6 +6,7 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+// The homepage portfolio styles are maintained in _sass/_portfolio.scss.
 @import
   "variables",
   "themes",
