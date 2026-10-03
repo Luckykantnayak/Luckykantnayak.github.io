@@ -1,5 +1,7 @@
 /* Single-page portfolio styling */
 :root {
+  --global-theme-color: #126f67;
+  --global-hover-color: #0b554e;
   --portfolio-accent: #126f67;
   --portfolio-accent-hover: #0b554e;
   --portfolio-ink: #172a29;
@@ -11,6 +13,8 @@
 }
 
 html[data-theme="dark"] {
+  --global-theme-color: #82d9c6;
+  --global-hover-color: #b5eddf;
   --portfolio-accent: #82d9c6;
   --portfolio-accent-hover: #b5eddf;
   --portfolio-ink: #f2f8f5;
