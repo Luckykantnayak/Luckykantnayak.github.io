@@ -24,7 +24,7 @@ social: false
       </div>
     </div>
     <figure class="portfolio-portrait">
-      <img src="{{ '/assets/img/Lucky_Thailand.jpg' | relative_url }}" alt="Lucky Kant Nayak" width="1768" height="2419">
+      <img src="{{ '/assets/img/Lucky_CMU.jpg' | relative_url }}" alt="Lucky Kant Nayak" width="300" height="450">
       <figcaption><span class="portfolio-portrait-dot" aria-hidden="true"></span> Robotics Institute · Pittsburgh, PA</figcaption>
     </figure>
   </section>
